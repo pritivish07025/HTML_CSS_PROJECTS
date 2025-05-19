@@ -54,7 +54,7 @@ body{
 .sec-part{
     height: 50px;
     background-size: cover;
-    background-color:rgb(21, 21, 21);
+    background-color:black;
 
     letter-spacing: 1px;
     justify-content: content;
